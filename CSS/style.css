@@ -1,0 +1,18 @@
+body{
+    background-color:blueviolet;
+}
+header ,footer{
+    background-color:rgb(224,187,51);
+}
+header{
+    margin:e;
+    padding:e;
+    display:flex;
+    align-items:center;
+    /*width:100; */
+}
+header p, header a{
+    margin-left:50px;
+    font-size:30px;
+    width:600;
+}
